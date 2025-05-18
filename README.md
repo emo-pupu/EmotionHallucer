@@ -75,5 +75,5 @@ As a byproduct, these findings inspire us to propose the *PEP-MEK* framework, wh
 ![modelsize_perception_vs](./assets/modelsize_perception_vs.png)
 
 ### Perception: Long Video
-![modelsize_perception_vl](./assets/modelsize_perception_vl.png
+![modelsize_perception_vl](./assets/modelsize_perception_vl.png)
 
