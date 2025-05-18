@@ -4,7 +4,7 @@
 
 - **[2025-05]**: [Project page](https://github.com/emo-pupu/EmotionHallucer) released.
 
-## TODO
+## 🔧 TODO
 
 - Paper release (coming soon).
 - Benchmark data release (in progress).
@@ -25,6 +25,9 @@ ii) closed-source models outperform open-source ones in detecting emotion halluc
 iii) existing models perform better in emotion psychology knowledge than in multimodal emotion perception.
 As a byproduct, these findings inspire us to propose the *PEP-MEK* framework, which yields an average improvement of 9.90\% in emotion hallucination detection across selected models.
 
-## Benchmark Statistics
+## 📊 Benchmark Statistics
 
-## Benchmark Evaluation
+### WordCloud
+![Pipeline](./assets/wordcloud.png)
+
+## 📈 Benchmark Evaluation
