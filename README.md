@@ -55,3 +55,25 @@ As a byproduct, these findings inspire us to propose the *PEP-MEK* framework, wh
 
 ### All Modalities
 ![result_all](./assets/result_all.jpg)
+
+### With Audio Modality
+![modelsize_perception_woa](./assets/modelsize_perception_woa.png)
+
+### Emotion Knowledge
+![modelsize_theory](./assets/modelsize_theory.png)
+
+### Perception: Text
+![modelsize_perception_t](./assets/modelsize_perception_t.png)
+
+### Perception: Image
+![modelsize_perception_i](./assets/modelsize_perception_i.png)
+
+### Perception: Audio
+![modelsize_perception_a](./assets/modelsize_perception_a.png)
+
+### Perception: Short Video
+![modelsize_perception_vs](./assets/modelsize_perception_vs.png)
+
+### Perception: Long Video
+![modelsize_perception_vl](./assets/modelsize_perception_vl.png
+
