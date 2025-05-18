@@ -52,3 +52,6 @@ As a byproduct, these findings inspire us to propose the *PEP-MEK* framework, wh
 ![Examples](./assets/example.png)
 
 ## 📈 Benchmark Evaluation
+
+### All Modalities
+![result_all](./assets/result_all.jpg)
