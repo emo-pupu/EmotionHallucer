@@ -25,7 +25,7 @@ ii) closed-source models outperform open-source ones in detecting emotion halluc
 iii) existing models perform better in emotion psychology knowledge than in multimodal emotion perception.
 As a byproduct, these findings inspire us to propose the *PEP-MEK* framework, which yields an average improvement of 9.90\% in emotion hallucination detection across selected models.
 
-## 📊 Benchmark Statistics
+## 📊 Benchmark Examples and Statistics
 
 ### WordCloud
 ![Pipeline](./assets/wordcloud.png)
