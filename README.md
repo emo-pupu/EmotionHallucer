@@ -27,10 +27,10 @@ As a byproduct, these findings inspire us to propose the *PEP-MEK* framework, wh
 
 ## 📊 Benchmark Examples and Statistics
 
-### - WordCloud
+### WordCloud
 ![WordCloud](./assets/wordcloud.png)
 
-### - Data Statistics
+### Data Statistics
 
 | **Statistic**                | **Count**         |
 |-----------------------------|-------------------|
@@ -48,7 +48,7 @@ As a byproduct, these findings inspire us to propose the *PEP-MEK* framework, wh
 | Avg Long Video len          | 60.0              |
 | Avg Long Video resolution   | 637.9 × 360.0     |
 
-### - Examples
+### Examples
 ![Examples](./assets/example.png)
 
 ## 📈 Benchmark Evaluation
