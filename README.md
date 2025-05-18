@@ -30,4 +30,22 @@ As a byproduct, these findings inspire us to propose the *PEP-MEK* framework, wh
 ### WordCloud
 ![Pipeline](./assets/wordcloud.png)
 
+### Data Statistics
+
+| **Statistic**                | **Count**         |
+|-----------------------------|-------------------|
+| Questions                   | 2,742             |
+| Images                      | 150               |
+| Audios                      | 368               |
+| Videos                      | 230               |
+| Avg Question len            | 31.6              |
+| Avg Knowledge Text len      | 19.9              |
+| Avg Review Text len         | 108.7             |
+| Avg Image resolution        | 579.5 × 466.5     |
+| Avg Audio len               | 4.2               |
+| Avg Short Video len         | 4.3               |
+| Avg Short Video resolution  | 870.0 × 476.9     |
+| Avg Long Video len          | 60.0              |
+| Avg Long Video resolution   | 637.9 × 360.0     |
+
 ## 📈 Benchmark Evaluation
