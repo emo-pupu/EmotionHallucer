@@ -48,4 +48,7 @@ As a byproduct, these findings inspire us to propose the *PEP-MEK* framework, wh
 | Avg Long Video len          | 60.0              |
 | Avg Long Video resolution   | 637.9 × 360.0     |
 
+### Examples
+![Pipeline](./assets/example.png)
+
 ## 📈 Benchmark Evaluation
